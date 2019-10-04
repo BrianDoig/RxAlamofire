@@ -45,6 +45,7 @@ Carthage/Build
 # Swift Package Manager
 .build
 Package.resolved
+.swiftpm
 
 .DS_Store
 **/.idea/**
